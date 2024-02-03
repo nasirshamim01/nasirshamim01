@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirshamim01&label=Profile%20views&color=0e75b6&style=flat" alt="nasirshamim01" /> </p>
 
 - 🔭 I’m currently working on **Audio Steganography**
-- 
 - 👀 I’m interested in **Android**
-- 
 - 👨‍💻 All of my projects are available at [https://nasirshamim.netlify.app/](https://nasirshamim.netlify.app/)
 
 - 💬 Ask me about **Android , Java**
