@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Audio Steganography**
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://nasirshamim.netlify.app/](https://nasirshamim.netlify.app/)
 
 - 💬 Ask me about **Android , Java**
