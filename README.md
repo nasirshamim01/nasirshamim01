@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirshamim01&label=Profile%20views&color=0e75b6&style=flat" alt="nasirshamim01" /> </p>
 
-- 👀 I’m  **Cybersecurity** enthusiast
-
-
-- 💬 Ask me about **Android , Java ,**
+- 👀 I’m  **Cybersecurity** Enthusiast
 
 - 📫 How to reach me **nasirshamim888@gmail.com**
   
