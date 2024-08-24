@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirshamim01&label=Profile%20views&color=0e75b6&style=flat" alt="nasirshamim01" /> </p>
 
-- 👀 I’m interested in **Android**
-- 👨‍💻 All of my projects are available at [https://nasirshamim.netlify.app/](https://nasirshamim.netlify.app/)
+- 👀 I’m  **Cybersecurity** enthusiast
 
-- 💬 Ask me about **Android , Java**
+
+- 💬 Ask me about **Android , Java ,**
 
 - 📫 How to reach me **nasirshamim888@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P_N9AEehxso4Nla3qo_brUxLqwnxl86D/view?usp=sharing](https://drive.google.com/file/d/1P_N9AEehxso4Nla3qo_brUxLqwnxl86D/view?usp=sharing)
+  
+- - 👨‍💻 **Portfolio** : [https://nasirshamim.netlify.app/](https://nasirshamim.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
